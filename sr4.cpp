@@ -7,7 +7,7 @@ int main()
     double y, x;
     cout<<"Введіть значення x\n";
     cin>>x;
-    y=((4*x*x-2)*(x+2)/(2*x+1))+(x*x*sin(x))/(2*x+1)
+    y=((4*x*x-2)*(x+2)/(2*x+1))+(x*x*sin(x))/(2*x+1);
     cout<<y;
     return 0;
 }
